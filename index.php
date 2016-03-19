@@ -5,7 +5,7 @@
  <body>
  <?php echo '<p>Hello Brasilia</p>'; 
  $VALOR = getenv('DEMO');
- echo .$VALOR;
+ echo $VALOR;
  ?> 
  </body>
 </html>
