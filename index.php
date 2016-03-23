@@ -4,7 +4,7 @@
  </head>
  <body>
  <?php 
- echo '<p>Hello Brasilia</p>'; 
+ echo '<p>Hello SP</p>'; 
  $VALOR = getenv('AMBIENTE');
  echo $VALOR;
  ?> 
