@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Darkmira PHP Brasilia</title>
+  <title>DEMO AZURE WEB APP</title>
  </head>
  <body>
  <?php 
